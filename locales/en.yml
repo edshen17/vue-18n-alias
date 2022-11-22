@@ -1,6 +1,6 @@
 button:
-  about: About
-  back: Back
+  about: &about About
+  back: *about
   go: GO
   home: Home
   toggle_dark: Toggle dark mode
